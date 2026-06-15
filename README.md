@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Salom, Men Diyoraman! 
 
-<!--
-**Daisy-pg/Daisy-pg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Men haqimda
+Hozirda dasturlash va frontend veb-texnologiyalarini katta qiziqish bilan o'rganyapman. Kelajakda kuchli professional dasturchi bo'lishni maqsad qilganman! 🚀
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Men ishlatadigan texnologiyalar (Tech Stack)
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+---
+
+### 📊 Mening GitHub statistikasi (Stats)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Daisy-pg&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daisy-pg&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
