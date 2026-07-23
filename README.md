@@ -15,13 +15,9 @@ I am an aspiring Frontend Developer with a strong passion for modern web technol
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Overview
 
 <p align="left">
-  <a href="https://github.com/Daisy-pg">
-    <img src="https://github-readme-stats.vercel.app/api?username=Daisy-pg&show_icons=true&theme=tokyonight&hide_border=true" alt="Daisy-pg's GitHub Stats" height="170" />
-  </a>
-  <a href="https://github.com/Daisy-pg">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daisy-pg&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
-  </a>
+  <img src="https://github-readme-stats.azurewebsites.net/api?username=Daisy-pg&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="160" />
+  <img src="https://github-readme-stats.azurewebsites.net/api/top-langs/?username=Daisy-pg&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160" />
 </p>
